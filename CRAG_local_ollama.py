@@ -335,5 +335,4 @@ response = predict_custom_agent_local_answer(example)
 response
 
 
-
 # %%
